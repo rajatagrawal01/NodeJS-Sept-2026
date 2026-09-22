@@ -1,0 +1,5 @@
+100-199 ->Informational Message 
+200-299 ->Success
+300-399 ->Redirectional
+400-499 ->Client Side-Front end Errors
+500-599 ->Server Side-Backend Errors
