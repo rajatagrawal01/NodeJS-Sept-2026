@@ -4,9 +4,7 @@ const path = require("path");
 const querystring = require("querystring");
 
 const server = http.createServer((req, res) => {
-
     if (req.url === "/" && req.method === "GET") {
-
         fs.readFile(path.join(__dirname, "index.html"), (err, data) => {
 
             if (err) {
