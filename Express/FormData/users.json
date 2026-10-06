@@ -3,7 +3,8 @@
     "id": 1,
     "name": "Rajat Agrawal",
     "email": "rajatagrawal01@gmail.com",
-    "password": "sssss"
+    "password": "sssss",
+    "image":"uploads/one.jpeg"
   },
   {
     "id": 2,
