@@ -3,8 +3,7 @@
     "id": 1,
     "name": "Rajat Agrawal",
     "email": "rajatagrawal01@gmail.com",
-    "password": "sssss",
-    "image":"uploads/one.jpeg"
+    "password": "sssss"
   },
   {
     "id": 2,
@@ -17,5 +16,23 @@
     "name": "Rajat Agrawal",
     "email": "rajatagrawal01@gmail.com",
     "password": "zzzzzz"
+  },
+  {
+    "id": 4,
+    "name": "Rajat Agrawal",
+    "email": "rajatagrawal01@gmail.com",
+    "password": "11111"
+  },
+  {
+    "id": 5,
+    "name": "sdsdsd",
+    "email": "rajatagrawal01@gmail.com",
+    "password": "11111"
+  },
+  {
+    "id": 6,
+    "name": "ffgfgfgfg",
+    "email": "rajatagrawal01@gmail.com",
+    "password": "11111"
   }
 ]
